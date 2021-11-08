@@ -31,8 +31,13 @@ O projeto original implementado pelo professor você pode encontrar
 
 ## Deploy
 
-* Acesse o projeto hospedado no Heroku:
-https://person-apirestfull.herokuapp.com/api/v1/people <br>
-* Consumir e Documentar a API hospedada na nuvem:
-https://person-apirestfull.herokuapp.com/personapi/swagger-ui.html#/person-controller <br>
-* Utilizando o Postman, você pode direcionar as requisições para o endereço no Heroku acima para consumir a API.
+* Acesse a Documentação da API hospedada no Heroku: <br>
+  -  https://intense-everglades-08058.herokuapp.com/swagger-ui.html#/ <br>
+  -  https://intense-everglades-08058.herokuapp.com/v2/api-docs  <br> <br>
+
+* Para consumir a API no Postman, pode, por exemplo, fazer os seguintes GET:
+
+    + Países:  https://intense-everglades-08058.herokuapp.com/api/countries <br>
+    + Estados do Brasil:  https://intense-everglades-08058.herokuapp.com/api/staties <br>
+    + Cidades do Brasil:  https://intense-everglades-08058.herokuapp.com/api/cities <br>
+    + Distância em milhas: https://intense-everglades-08058.herokuapp.com/api/distances/by-points?from=4929&to=5254
