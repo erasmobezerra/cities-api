@@ -29,13 +29,13 @@ O projeto original implementado pelo professor você pode encontrar
 + Spring Data JPA
 + PostgreSQL Driver
 
-## Deploy
+## Swagger 
 
 * Acesse a Documentação da API hospedada no Heroku: <br>
   -  https://intense-everglades-08058.herokuapp.com/swagger-ui.html#/ <br>
   -  https://intense-everglades-08058.herokuapp.com/v2/api-docs  <br> <br>
 
-## Swagger
+## Consumindo API no Postman
 * Para consumir a API no Postman, pode, por exemplo, fazer os seguintes GET:
 
     + Países:  https://intense-everglades-08058.herokuapp.com/api/countries <br>
