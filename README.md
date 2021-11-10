@@ -1,10 +1,10 @@
 # Cities API
 Este projeto é uma API Rest de consulta de cidades do Brasil com dados comparativos. Foi desenvolvido durante
 o curso **Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção**, ministrado
-pelo professor <a href="https://www.linkedin.com/in/andreluisgomes/">André Gomes</a>.
+pelo professor <a href="https://www.linkedin.com/in/andreluisgomes/" target="_blank">André Gomes</a>.
 
 O projeto original implementado pelo professor você pode encontrar
-<a href="https://github.com/andrelugomes/digital-innovation-one/tree/master/cities-api">clicando aqui.</a>
+<a href="https://github.com/andrelugomes/digital-innovation-one/tree/master/cities-api" target="_blank">clicando aqui.</a>
 
 ## Minhas implementações:
 * Documentação utilizando Swagger, um framework para descrição, consumo e visualização de serviços RESTful
