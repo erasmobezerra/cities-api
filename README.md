@@ -15,8 +15,10 @@ O projeto original implementado pelo professor você pode encontrar
 * Git
 * Java 8
 * Docker
+* PostgreSQL
 * IntelliJ Community
 * Heroku CLI
+* Swagger
 
 ## Spring Boot
 
