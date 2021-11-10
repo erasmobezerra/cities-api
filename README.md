@@ -9,7 +9,7 @@ O projeto original implementado pelo professor você pode encontrar
 ## Minhas implementações no projeto:
 * Documentação utilizando Swagger, um framework para descrição, consumo e visualização de serviços RESTful
 
-## Requisitos do Projeto
+## Tecnologias utilizadas
 
 * Linux
 * Git
