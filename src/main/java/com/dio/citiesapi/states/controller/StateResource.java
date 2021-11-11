@@ -4,8 +4,6 @@ package com.dio.citiesapi.states.controller;
 import com.dio.citiesapi.states.entities.State;
 import com.dio.citiesapi.states.repositories.StateRepository;
 import io.swagger.annotations.ApiOperation;
-import io.swagger.annotations.ApiResponse;
-import io.swagger.annotations.ApiResponses;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

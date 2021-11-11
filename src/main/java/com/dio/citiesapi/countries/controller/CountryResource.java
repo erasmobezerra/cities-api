@@ -3,8 +3,6 @@ package com.dio.citiesapi.countries.controller;
 import com.dio.citiesapi.countries.entities.Country;
 import com.dio.citiesapi.countries.repositories.CountryRepository;
 import io.swagger.annotations.ApiOperation;
-import io.swagger.annotations.ApiResponse;
-import io.swagger.annotations.ApiResponses;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.MediaType;

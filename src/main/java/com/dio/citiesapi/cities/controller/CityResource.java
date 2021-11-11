@@ -5,8 +5,6 @@ import com.dio.citiesapi.cities.entities.City;
 import com.dio.citiesapi.cities.repositories.CityRepository;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-import io.swagger.annotations.ApiResponse;
-import io.swagger.annotations.ApiResponses;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.MediaType;
